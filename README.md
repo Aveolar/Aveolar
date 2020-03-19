@@ -1,3 +1,6 @@
+GIT TASK 1
+
+
 
 
 Name: Ogunsanya Adeola
@@ -15,3 +18,18 @@ Slack Username: Aveolar
 Track: Front-End (Html, Css, JavaScript)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               GIT TASK 1
