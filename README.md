@@ -8,10 +8,10 @@ Email: ogunsanya.adeola71@gmail.com
 
 ================================
 
-slack username: Aveolar
+Slack Username: Aveolar
 
 ===============================
 
-track: Front-End (Html, Css, JavaScript)
+Track: Front-End (Html, Css, JavaScript)
 
 
