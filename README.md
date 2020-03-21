@@ -27,6 +27,7 @@ Additional resources:
 
 
 https://www.w3schools.com/js/js_loop_for.asp
+
 https://www.youtube.com/watch?v=s9wW2PpJsmQ&t=6s
 
 
