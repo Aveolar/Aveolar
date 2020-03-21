@@ -1,4 +1,4 @@
-
+//Mode of "Display" was not highlighted in the task instructions...
 
 const name = "Adeola Ogunsanya";
 
