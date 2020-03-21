@@ -7,18 +7,14 @@ const courses = ["HTML", "CSS", "JavaScript"];
 console.log(name);
 console.log(courses);
 
-document.write(name + "<br/>");
-document.write(courses + "<br/>");
 
     if (courses.length % 2 !== 0) {
         for (let i = 1; i <= 200; i+=2) {
             console.log(i);
-            document.write(i + "<br/>")
         }
     }else if (courses.length % 2 === 0) {
         for (let i = 0; i <= 200; i+=2) {
-            console.log(i);
-            document.write(i + "<br/>") 
+            console.log(i); 
         }
     }else {
         undefined;
