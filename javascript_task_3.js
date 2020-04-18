@@ -1,9 +1,9 @@
- const myArray = [];
 
         function yuGiHo(num) {
+             const myArray = [];
 
             for (let i = 1; i <= num; i++) {
-
+                
                 let r = "";
 
                 if (i % 2 === 0 || i % 3 === 0 || i % 5 === 0) {
@@ -33,12 +33,14 @@
                 }
 
                 myArray.push(r); 
+               
 
             }
-
-            console.log(myArray);
-            
+                
+            return myArray;
            
         }
-        yuGiHo(100);
-        yuGiHo(50);
+        
+        
+       console.log(yuGiHo(100));
+       console.log(yuGiHo(50));
