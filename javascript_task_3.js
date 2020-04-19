@@ -1,5 +1,5 @@
-
         function yuGiHo(num) {
+
              const myArray = [];
 
             for (let i = 1; i <= num; i++) {
@@ -8,11 +8,7 @@
 
                 if (i % 2 === 0 || i % 3 === 0 || i % 5 === 0) {
                     if (i % 2 === 0) {
-                        if (r !== "") {
-                            r += "-yu";
-                        }else {
                             r = "yu";
-                        }
                     }
                     if (i % 3 === 0) {
                         if (r !== "") {
@@ -33,14 +29,12 @@
                 }
 
                 myArray.push(r); 
-               
-
             }
                 
             return myArray;
            
         }
         
-        
        console.log(yuGiHo(100));
        console.log(yuGiHo(50));
+       
